@@ -13,14 +13,17 @@
 | Lyric Writing Date | May 07, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/shekhano-bornona/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Shekhano Bornona](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get License For Shekhano Bornona](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> অচেনা রাতের বুকে কাঁদে এই মন
+> কাঁদে এই মন
+> হারানো স্মৃতির মাঝে খুঁজি সারাক্ষণ
+> খুঁজি সারাক্ষণ
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
