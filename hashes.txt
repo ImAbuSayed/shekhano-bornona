@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Shekhano Bornona
+
+This log tracks the cryptographic history and versioning for the song **Shekhano Bornona** (shekhano-bornona).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:05:26.799635 | `v1` | `8a95cb8bb4ec7fbf7aa1cdc171bb11bec5c74b95b4ce7736582257c0e04c7a33` | `800ac9a163deabae8d385e8012fb05c9fab12fe06d134fa67cc92a361fbbfc76` | `2026-05-08_shekhano-bornona-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
